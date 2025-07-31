@@ -1,0 +1,70 @@
+ body {
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+        }
+
+        .textbox {
+            color: white;
+        }
+
+        .ayah-card {
+            margin-bottom: 15px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .ayah-arabic {
+            font-size: 1.8rem;
+            text-align: right;
+            direction: rtl;
+        }
+
+        .ayah-urdu {
+            font-size: 1.3rem;
+            text-align: right;
+            color: #555;
+            font-style: italic;
+        }
+
+        .audio-btn {
+            font-size: 0.9rem;
+            padding: 4px 10px;
+        }
+
+        .highlight {
+            background-color: #ffeb3b;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+
+        .islamic-footer {
+            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+            color: #fff;
+            text-align: center;
+            padding: 30px 20px;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .footer-content h3 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+
+        .footer-content p {
+            font-size: 14px;
+            margin: 5px 0;
+        }
+
+        .footer-content .credit {
+            margin-top: 15px;
+            font-size: 13px;
+            color: #aaa;
+        }
+
+        .footer-content hr {
+            width: 60%;
+            margin: 15px auto;
+            border: 0.5px solid #444;
+        }
+
+        .pagination {
+            justify-content: center;
+        }
