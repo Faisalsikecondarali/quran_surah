@@ -2,7 +2,7 @@
 
 A beautiful Quran viewer with Arabic text, Urdu translation, and audio recitation - all in one place.
 
-![Preview](https://quranbyheart.netlify.app/) 
+live preview https://quranbyheart.netlify.app
 
 ## Features ✨
 
